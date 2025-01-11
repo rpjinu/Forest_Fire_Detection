@@ -34,7 +34,7 @@ Forest-Fire-Detection/
 
 ## 🔎 Key Steps
 ### Dataset Link
-- [Forest Fire Dataset]([https://www.kaggle.com/datasets/rpjinu/forest-fire-dataset])
+- [Forest Fire Dataset]:-https://www.kaggle.com/datasets/rpjinu/forest-fire-dataset
 
 ### 1. 📊 Data Collection & Preprocessing
 - 🔄 Gather and organize the dataset into `fire` and `no_fire` categories.
