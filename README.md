@@ -2,7 +2,7 @@
 "A forest fire detection project using TensorFlow to train a model for identifying fire occurrences from imagery, and deploying the solution with Streamlit for real-time monitoring and prediction."
 
 # 🌳 Forest Fire Detection
-<img src="" width="800">
+<img src="https://github.com/rpjinu/Forest_Fire_Detection/blob/main/Forest_fire_image.jpg" width="800">
 
 ## 📚 Project Description
 This project aims to build an end-to-end solution for detecting 🌳⚡️ fires using deep learning. The solution involves training a 💀 Convolutional Neural Network (CNN) using TensorFlow to classify 🌐 images as either containing a 🌳⚡️ fire or not. Once the model is trained, it is deployed using 🌐 Streamlit, enabling real-time 🕓 monitoring and 🔀 predictions from new 🌐 image data.
